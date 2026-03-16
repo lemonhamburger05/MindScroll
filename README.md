@@ -27,22 +27,22 @@ pip install PyQt6 pyobjc-core pyobjc-framework-Cocoa
 ```
 ## 🚀 安装与运行 (Installation & Usage)
   1. 克隆仓库到本地：
-  git clone [https://github.com/你的用户名/MindScroll.git](https://github.com/你的用户名/MindScroll.git)
-  cd MindScroll
+  ```git clone [https://github.com/你的用户名/MindScroll.git](https://github.com/你的用户名/MindScroll.git)
+  cd MindScroll```
 
   2. 运行程序：
-  python main.py
+  ```python main.py```
 
   3. 使用指南：
-  程序启动后，你的 Mac 顶部菜单栏会出现 📌 点击添加待办 的字样。
+    程序启动后，你的 Mac 顶部菜单栏会出现 📌 点击添加待办 的字样。
 
-  点击该字样，屏幕中央会弹出 MindScroll 的设置面板。
+    点击该字样，屏幕中央会弹出 MindScroll 的设置面板。
 
-  在输入框中填入待办事项和对应的 DDL，点击“添加”。
+    在输入框中填入待办事项和对应的 DDL，点击“添加”。
 
-  如有需要，可在下方调整“菜单栏显示长度”和“滚动速度”。
+    如有需要，可在下方调整“菜单栏显示长度”和“滚动速度”。
 
-  按住列表中的任务可以上下拖动排序。
+    按住列表中的任务可以上下拖动排序。
 
-  点击 “保存配置并开始滚动”，面板将自动隐藏，你的任务开始在顶部菜单栏滚动！
+    点击 “保存配置并开始滚动”，面板将自动隐藏，你的任务开始在顶部菜单栏滚动！
 
