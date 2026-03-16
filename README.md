@@ -25,7 +25,7 @@
 ```bash
 pip install PyQt6 pyobjc-core pyobjc-framework-Cocoa
 
-**🚀 安装与运行 (Installation & Usage)**
+## 🚀 安装与运行 (Installation & Usage)
   1. 克隆仓库到本地：
   git clone [https://github.com/你的用户名/MindScroll.git](https://github.com/你的用户名/MindScroll.git)
   cd MindScroll
