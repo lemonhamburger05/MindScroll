@@ -28,11 +28,11 @@ pip install PyQt6 pyobjc-core pyobjc-framework-Cocoa
 ## 🚀 安装与运行 (Installation & Usage)
   1. 克隆仓库到本地：
   ```git clone [https://github.com/你的用户名/MindScroll.git](https://github.com/你的用户名/MindScroll.git)
-  cd MindScroll```
-
+  cd MindScroll
+  ```
   2. 运行程序：
-  ```python main.py```
-
+  ```python main.py
+  ```
   3. 使用指南：
     程序启动后，你的 Mac 顶部菜单栏会出现 📌 点击添加待办 的字样。
 
